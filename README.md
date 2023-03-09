@@ -4,7 +4,10 @@ Pythonで日々学んでいることを書いています．#AtCoder #機械学�
 ## **Python_init**
 pythonの環境構築についてvscode,docker,anaconda, gitを用いて説明しています．また，Pythonの基礎構文をまとめたJupyterノートもあります．
 
-## git,githubの使い方(コマンドラインの文法)
+## **git_github**
+git,githubの使い方(コマンドラインの文法)について説明しています．
+
+## __AtCoder__
 
 ___
 ***
@@ -80,6 +83,8 @@ __ か ** で囲むとHTMLのstrongタグになります。Qiitaでは **太字*
 ---
 
 ## リンク
+>`[Qiita](http://qiita.com)  `  
+
 [Qiita](http://qiita.com)  
 [ここ][link-1] と [この][link-1] リンクは同じになります。
 [link-1] という書き方もできます。
@@ -87,9 +92,20 @@ __ か ** で囲むとHTMLのstrongタグになります。Qiitaでは **太字*
 [link-1]: http://qiita.com/
 
 ## 画像
+>`![Qiita](https://qiita-image-store.s3.amazonaws.com/0/45617/015bd058-7ea0-e6a5-b9cb-36a4fb38e59c.png "Qiita")`
+
 ![Qiita](https://qiita-image-store.s3.amazonaws.com/0/45617/015bd058-7ea0-e6a5-b9cb-36a4fb38e59c.png "Qiita")
 
 ## 表
+>`| Left align | Right align | Center align |`  
+>`|:-----------|------------:|:------------:|`  
+>`| This       | This        | This         |`  
+>`| column     | column      | column       |`  
+>`| will       | will        | will         |`  
+>`| be         | be          | be           |`  
+>`| left       | right       | center       |`  
+>`| aligned    | aligned     | aligned      |`  
+
 | Left align | Right align | Center align |
 |:-----------|------------:|:------------:|
 | This       | This        | This         |
@@ -100,6 +116,8 @@ __ か ** で囲むとHTMLのstrongタグになります。Qiitaでは **太字*
 | aligned    | aligned     | aligned      |
 
 ## 数式
+>`$x^2 + y^2 = 1$ `  
+
 $x^2 + y^2 = 1$ 
 
 # 参考文献
