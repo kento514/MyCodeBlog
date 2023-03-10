@@ -51,4 +51,15 @@
 # ABC085C - Otoshidama
 ポイント：最大ループ数・・・$10^6$
 
-# 
+# ABC049C - 白昼夢
+ポイント：リストに高速に出し入れするシステム
+> `from collections import deque`
+> `dlist = deque()`
+> `dlist.append([1,2])`
+> `dlist.pop()`
+## 参考文献
+[参考文献](https://qiita.com/ryosuke0825/items/bbc5c0673e6c6c958d66)
+
+# ABC086C - Traveling
+ポイント：時間を以下に減らせるか
+毎回すべての時間を考慮せず，二つだけに注目する．
